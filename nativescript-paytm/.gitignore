@@ -7,6 +7,5 @@ app/**/*.js.map
 hooks/
 lib/
 node_modules/
-platforms/
 tmp/
 typings/
